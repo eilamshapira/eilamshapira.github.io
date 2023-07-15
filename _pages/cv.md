@@ -14,18 +14,20 @@ redirect_from:
 * Ph.D in Data and Decisions Science, Technion - Israel institute of technology, 2026 (expected)
 
 # Work experience
-* 2020-2022: Data Scientist Student
-  * Augury
+* 2020-2022: Data Scientist Student, Augury
 
 # Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Talks
-<ul>{% for post in site.talks %}
-{% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
+[comment]: <> (# Talks)
+
+[comment]: <> (<ul>{% for post in site.talks %})
+
+[comment]: <> ({% include archive-single-talk-cv.html %})
+
+[comment]: <> ({% endfor %}</ul>)
   
 # Teaching
 <ul>{% for post in site.teaching %}{% include archive-single-cv.html %}{% endfor %}</ul>
