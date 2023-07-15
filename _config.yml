@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Eilam Shapira"
+title                    : "Eilam Shapira"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Eilam Shapira"
@@ -109,6 +109,7 @@ author:
   bio              : "PhD Candidate @ Technion"
   location         : "Haifa, Israel"
   email            : "First Name . Last Name @gmail.com"
+  googlescholar: "https://scholar.google.com/citations?user=JDOm_NcAAAAJ&hl=iw"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
