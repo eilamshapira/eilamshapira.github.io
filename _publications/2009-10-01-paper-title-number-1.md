@@ -1,15 +1,30 @@
 ---
-title: "Paper Title Number 1"
+title: "Human Choice Prediction in Language-based Non-Cooperative Games: Simulation-based Off-Policy Evaluation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/OPE2023
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023-05-15
+# venue: 'Journal 1'
+paperurl: 'https://arxiv.org/pdf/2305.10361'
+citation: 'Recommended citation: Eilam Shapira, Reut Apel, Moshe Tennenholtz, Roi Reichart (2023). "Human Choice Prediction in Language-based Non-Cooperative Games: Simulation-based Off-Policy Evaluation".'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Persuasion games have been fundamental in economics and AI research, and
+have significant practical applications. Recent works in this area have started
+to incorporate natural language, moving beyond the traditional stylized message
+setting. However, previous research has focused on on-policy prediction, where the
+train and test data have the same distribution, which is not representative of real-life
+scenarios. In this paper, we tackle the challenging problem of off-policy evaluation
+(OPE) in language-based persuasion games. To address the inherent difficulty of
+human data collection in this setup, we propose a novel approach which combines
+real and simulated human-bot interaction data. Our simulated data is created by an
+exogenous model assuming decision makers (DMs) start with a mixture of random
+and decision-theoretic based behaviors and improve over time. We present a deep
+learning training algorithm that effectively integrates real interaction and simulated
+data, substantially improving over models that train only with interaction data. Our
+results demonstrate the potential of real interaction and simulation mixtures as a
+cost-effective and scalable solution for OPE in language-based persuasion games.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://arxiv.org/pdf/2305.10361.pdf)
+
+Recommended citation: Eilam Shapira, Reut Apel, Moshe Tennenholtz, Roi Reichart (2023). "Human Choice Prediction in Language-based Non-Cooperative Games: Simulation-based Off-Policy Evaluation".
