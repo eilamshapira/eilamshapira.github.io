@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Data Science and Engineering, Technion - Israel institute of technology, 2022
-[comment]: <> (* M.S. in Jekyll, Technion - Israel institute of technology, 2023)
 * Ph.D in Data and Decisions Science, Technion - Israel institute of technology, 2026 (expected)
 
 Work experience
@@ -53,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Head of faculty's student union (2019-20)
