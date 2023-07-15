@@ -6,7 +6,7 @@ excerpt: 'Using simulated data to improve the ability to predict human actions.'
 date: 2023-05-15
 # venue: 'Under Review'
 paperurl: 'https://arxiv.org/pdf/2305.10361'
-citation: 'Eilam Shapira, Reut Apel, Moshe Tennenholtz, Roi Reichart (2023). "Human Choice Prediction in Language-based Non-Cooperative Games: Simulation-based Off-Policy Evaluation".'
+citation: '**Eilam Shapira**, Reut Apel, Moshe Tennenholtz, Roi Reichart (2023). "Human Choice Prediction in Language-based Non-Cooperative Games: Simulation-based Off-Policy Evaluation".'
 ---
 
 Persuasion games have been fundamental in economics and AI research, and
