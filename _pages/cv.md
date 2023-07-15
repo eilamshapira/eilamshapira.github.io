@@ -34,15 +34,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-[comment]: <> (Talks)
 
-[comment]: <> (======)
+Talks
+======
 
-[comment]: <> (  <ul>{% for post in site.talks %})
+  <ul>{% for post in site.talks %}
 
-[comment]: <> (    {% include archive-single-talk-cv.html %})
+    {% include archive-single-talk-cv.html %}
 
-[comment]: <> (  {% endfor %}</ul>)
+  {% endfor %}</ul>
   
 Teaching
 ======
