@@ -30,7 +30,7 @@ redirect_from:
 [comment]: <> ({% endfor %}</ul>)
   
 # Teaching
-<ul>{% for post in site.teaching %}{% include archive-single-cv.html %}{% endfor %}</ul>
+{% for post in site.teaching %}{% include archive-single-cv.html %}{% endfor %}
   
 # Leadership
 * Head of faculty's student union (2019-20)
