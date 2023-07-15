@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/OPE2023
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-05-15
-venue: 'Under Review'
+# venue: 'Under Review'
 paperurl: 'https://arxiv.org/pdf/2305.10361'
 citation: 'Eilam Shapira, Reut Apel, Moshe Tennenholtz, Roi Reichart (2023). "Human Choice Prediction in Language-based Non-Cooperative Games: Simulation-based Off-Policy Evaluation".'
 ---
