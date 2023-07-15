@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eilam Shapira / Home Page"
+title                    : "Eilam Shapira"
 title_separator          : "-"
 name                     : &name "Eilam Shapira"
-description              : &description "PhD Student @ Technion"
+description              : &description "PhD Candidate @ Technion"
 url                      : https://eilamshapira.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eilamshapira/eilamshapira.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eilam Shapira"
   avatar           : "profile.jpeg"
-  bio              : "PhD Student @ Technion"
+  bio              : "PhD Candidate @ Technion"
   location         : "Haifa, Israel"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
