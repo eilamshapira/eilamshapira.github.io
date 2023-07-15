@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Education
-* B.S. in Data Science and Engineering, Technion - Israel institute of technology, 2022
-* Ph.D in Data and Decisions Science, Technion - Israel institute of technology, 2026 (expected)
+* B.Sc. in Data Science and Engineering, Technion - Israel institute of technology, 2022
+* Ph.D. in Data and Decisions Science, Technion - Israel institute of technology, 2026 (expected)
 
 # Work experience
 * 2020-2022: Data Scientist Student, Augury
