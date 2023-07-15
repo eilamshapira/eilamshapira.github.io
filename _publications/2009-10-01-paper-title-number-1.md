@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/OPE2023
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-05-15
-# venue: 'Journal 1'
+venue: 'Under Review'
 paperurl: 'https://arxiv.org/pdf/2305.10361'
-citation: 'Recommended citation: Eilam Shapira, Reut Apel, Moshe Tennenholtz, Roi Reichart (2023). "Human Choice Prediction in Language-based Non-Cooperative Games: Simulation-based Off-Policy Evaluation".'
+citation: 'Eilam Shapira, Reut Apel, Moshe Tennenholtz, Roi Reichart (2023). "Human Choice Prediction in Language-based Non-Cooperative Games: Simulation-based Off-Policy Evaluation".'
 ---
 
 Persuasion games have been fundamental in economics and AI research, and
@@ -26,5 +26,3 @@ results demonstrate the potential of real interaction and simulation mixtures as
 cost-effective and scalable solution for OPE in language-based persuasion games.
 
 [Download paper here](https://arxiv.org/pdf/2305.10361.pdf)
-
-Recommended citation: Eilam Shapira, Reut Apel, Moshe Tennenholtz, Roi Reichart (2023). "Human Choice Prediction in Language-based Non-Cooperative Games: Simulation-based Off-Policy Evaluation".
