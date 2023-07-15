@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate at the [Technion - Israel Institute of Technology](https://www.technion.ac.il/), working under the
-supervision of Prof. [Roi Reichart](https://roireichart.com/) and Prof. [Moshe Tennenholtz](https://dds.technion.ac.il/he/academicstaff/moshe-tennenholtz/).
+I'm a PhD Candidate at the [Technion - Israel Institute of Technology](https://www.technion.ac.il/),
+working on Language-based games: Natural Language Processing (NLP) in strategic environment.  
+
+My advisors are Prof. [Roi Reichart](https://roireichart.com/) and Prof.
+[Moshe Tennenholtz](https://dds.technion.ac.il/he/academicstaff/moshe-tennenholtz/).
 
