@@ -4,6 +4,6 @@ collection: teaching
 type: "Graduate/Undergraduate course"
 permalink: /teaching/NLP-Winter2223
 venue: "Technion, Data and Decision Science Faculty"
-date: 2022-10-01
+date: "Winter 2022/23"
 location: "Haifa, Israel"
 ---
