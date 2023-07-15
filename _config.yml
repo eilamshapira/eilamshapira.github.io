@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Eilam Shapira"
+  avatar           : "/assets/profile.jpeg"
+  bio              : "PhD Candidate @ Technion"
+  location         : "Haifa, Israel"
+  email            : First Name . Last Name @gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
