@@ -9,4 +9,4 @@ So when I heard about the trek for the first time, I was told in the same breath
 Pretty quickly I got myself a place on the trek like that, but I couldn't even imagine what happened next: the app became insanely popular, something like 200 travelers got a place on the trek thanks to it, and some travelers I met along the way even told me about the app - without knowing that I built it. I received quite a few messages from people who told me that I made their dream come true, and that thanks to me they went on a trek.<br><br>
 <cite>From my ad, 2018</cite>
 
-The application TreksTracker (originally called MilfordTracker) operated for four tourist seasons in the years 2017-2023 and helped about a thousand travelers embark on one of the most beautiful routes I've traveled and other popular routes in New Zealand.
+My application TreksTracker (originally called MilfordTracker) operated for four tourist seasons in the years 2017-2023 and helped about a thousand travelers embark on one of the most beautiful routes I've traveled and other popular routes in New Zealand.
