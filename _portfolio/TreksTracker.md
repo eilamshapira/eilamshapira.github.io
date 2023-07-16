@@ -2,6 +2,7 @@
 title: "TreksTracker"
 excerpt: "The app that helps travelers get places on the most popular treks in New Zealand.<br/><img src='/images/TreksTracker.jpeg'>"
 collection: portfolio
+permalink: /portfolio/TreksTracker
 ---
 > About a year ago, when I started planning my trip to New Zealand, I heard about the Milford Track. It's an amazing four-day trek that has every scenery you could want: snowy mountains, spectacular views, crazy waterfalls, streams flowing everywhere and a forest that looks like it was taken from a Disney movie. There are quite a few people who say that this is the most beautiful trek in the world. I don't know who has done all the treks in the world to decide, but in one title this trek wins for sure: the most requested trek in the world. Registration for it for the coming year - which opened last week - ended within seven minutes. <br><br>
 So when I heard about the trek for the first time, I was told in the same breath that I probably wouldn't be able to go on it this year - because of the problem of places. I realized that I needed to find a creative solution to do this trek, so I developed an application that sends you a notification to your phone as soon as someone cancels their spot on the trek, and allows you to take the vacated spot on the trek in exactly two clicks. There are a lot of cancellations (which are hijacked within minutes), and the app warns about them within a few seconds.<br><br>
