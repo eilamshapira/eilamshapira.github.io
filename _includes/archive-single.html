@@ -51,11 +51,10 @@
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">
-        {% if post.collection == 'portfolio' %}
-        Read more
+        {% if post.collection != 'teaching' %}
+            <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
         {% else %}
-        Read?
+            <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">
         {% endif %}
   </a></strong></p></p>
     {% endif %}
