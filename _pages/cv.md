@@ -35,5 +35,5 @@ redirect_from:
 {% endfor %}</ul>
   
 # Leadership
-* Head of faculty's student union (2019-20)
+* 2019-2020: Head of faculty's student union
 
