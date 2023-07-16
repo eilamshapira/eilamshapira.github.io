@@ -1,6 +1,6 @@
 ---
 title: "TreksTracker"
-excerpt: "The app that helps travelers get places on the most popular treks in New Zealand.<br/><img src='/images/TreksTracker.jpeg'>"
+excerpt: "<img src='/images/TreksTracker.jpeg'><br/>The app that helps travelers get places on the most popular treks in New Zealand."
 collection: portfolio
 permalink: /portfolio/TreksTracker
 ---
