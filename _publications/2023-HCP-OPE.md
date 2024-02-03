@@ -2,7 +2,7 @@
 title: "Human Choice Prediction in Language-based Non-Cooperative Games: Simulation-based Off-Policy Evaluation"
 collection: publications
 permalink: /publication/OPE2023
-excerpt: 'Using simulated data to improve the ability to predict human actions.'
+excerpt: 'We consider the problem of off-policy evaluation for human decision prediction in non-cooperative non-zero-sum games, collect an extensive novel dataset and present a simulation-based algorithm.'
 date: 2023-05-15
 # venue: 'Under Review'
 paperurl: 'https://arxiv.org/pdf/2305.10361'
