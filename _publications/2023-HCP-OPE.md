@@ -9,20 +9,15 @@ paperurl: 'https://arxiv.org/pdf/2305.10361'
 citation: '<b>Eilam Shapira</b>, Reut Apel, Moshe Tennenholtz, Roi Reichart (2023). "Human Choice Prediction in Language-based Non-Cooperative Games: Simulation-based Off-Policy Evaluation".'
 ---
 
-Persuasion games have been fundamental in economics and AI research, and
-have significant practical applications. Recent works in this area have started
-to incorporate natural language, moving beyond the traditional stylized message
-setting. However, previous research has focused on on-policy prediction, where the
-train and test data have the same distribution, which is not representative of real-life
-scenarios. In this paper, we tackle the challenging problem of off-policy evaluation
-(OPE) in language-based persuasion games. To address the inherent difficulty of
-human data collection in this setup, we propose a novel approach which combines
-real and simulated human-bot interaction data. Our simulated data is created by an
-exogenous model assuming decision makers (DMs) start with a mixture of random
-and decision-theoretic based behaviors and improve over time. We present a deep
-learning training algorithm that effectively integrates real interaction and simulated
-data, substantially improving over models that train only with interaction data. Our
-results demonstrate the potential of real interaction and simulation mixtures as a
-cost-effective and scalable solution for OPE in language-based persuasion games.
+Recent advances in Large Language Models (LLMs) have spurred interest in designing LLM-based agents for tasks that involve interaction with human and artificial
+agents. This paper addresses a key aspect in the design of such agents: Predicting human decision in off-policy evaluation
+(OPE), focusing on language-based persuasion games, where the agent’s goal is to influence its partner’s decisions through verbal messages. Using a dedicated application, we collected a dataset of 87K decisions
+from humans playing a repeated decisionmaking game with artificial agents. Our
+approach involves training a model on human interactions with one agents subset to
+predict decisions when interacting with another. To enhance off-policy performance,
+we propose a simulation technique involving interactions across the entire agent space
+and simulated decision makers. Our learning strategy yields significant OPE gains,
+e.g., improving prediction accuracy in the
+top 15% challenging cases by 7.1%.
 
 [Download paper here](https://arxiv.org/pdf/2305.10361.pdf)
