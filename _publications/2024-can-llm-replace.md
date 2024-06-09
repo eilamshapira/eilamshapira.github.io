@@ -26,4 +26,4 @@ human behavior in a language-based persuasion
 game, and can even outperform models trained on
 actual human data.
 
-[ [Paper](https://arxiv.org/pdf/2401.17435.pdf) ]
+[Paper](https://arxiv.org/pdf/2401.17435.pdf)
