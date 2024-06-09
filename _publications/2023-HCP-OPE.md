@@ -20,4 +20,4 @@ and simulated decision makers. Our learning strategy yields significant OPE gain
 e.g., improving prediction accuracy in the
 top 15% challenging cases by 7.1%.
 
-[Paper](https://arxiv.org/pdf/2305.10361.pdf) \|  [Code](https://github.com/eilamshapira/HumanChoicePrediction) 
+[[Paper](https://arxiv.org/pdf/2305.10361.pdf) \|  [Code](https://github.com/eilamshapira/HumanChoicePrediction)]
