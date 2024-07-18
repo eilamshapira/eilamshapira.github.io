@@ -3,7 +3,7 @@ title: "Text2Model: Text-based Model Induction for Zero-shot Image Classificatio
 collection: publications
 permalink: /publication/Text2Model
 excerpt: 'We consider the problem of off-policy evaluation for human decision prediction in non-cooperative non-zero-sum games, collect an extensive novel dataset and present a simulation-based algorithm.'
-date: 2024-10-27
+date: 2024-03-09
 # venue: 'Under Review'
 paperurl: 'https://arxiv.org/abs/2210.15182'
 citation: 'Ohad Amosy, Tomer Volk, <b>Eilam Shapira</b>, Eyal Ben-David, Roi Reichart, Gal Chechik (2024). "Text2Model: Text-based Model Induction for Zero-shot Image Classification".'
