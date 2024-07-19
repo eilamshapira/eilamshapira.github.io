@@ -2,6 +2,7 @@
 title: "Text2Model: Text-based Model Induction for Zero-shot Image Classification"
 collection: publications
 permalink: /publication/Text2Model
+excerpt: ''
 date: 2024-03-09
 # venue: 'Under Review'
 paperurl: 'https://arxiv.org/abs/2210.15182'
