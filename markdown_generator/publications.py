@@ -105,6 +105,8 @@ for row, item in publications.iterrows():
         bibtex_id = f"bibtex_{row}"
         md += f"\n\n<div class=\"copy-bib-container\"><span class=\"copy-btn\" onclick=\"copyBib('{bibtex_id}')\">Copy BIB</span></div>"
         md += f"\n<textarea id=\"{bibtex_id}\" style=\"display:none;\">{html_escape(item.bibtex)}</textarea>"
+    else:
+        md += f"<!-- No BibTeX entry found for publication {item.title} -->"
 
     md_filename = os.path.basename(md_filename)
        
