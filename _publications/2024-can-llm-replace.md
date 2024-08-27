@@ -6,6 +6,15 @@ excerpt: 'LLMs can substitute human data for economic choice prediction in langu
 date: 2024-01-30
 # venue: 'Under Review'
 paperurl: 'https://arxiv.org/pdf/2401.17435.pdf'
+bibtex: "@misc{shapira2024llmsreplaceeconomicchoice,
+      title={Can LLMs Replace Economic Choice Prediction Labs? The Case of Language-based Persuasion Games}, 
+      author={Eilam Shapira and Omer Madmon and Roi Reichart and Moshe Tennenholtz},
+      year={2024},
+      eprint={2401.17435},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2401.17435}, 
+}"
 citation: '<b>Eilam Shapira</b>, Omer Madmon, Roi Reichart, Moshe Tennenholtz (2024). "Can LLMs Replace Economic Choice Prediction Labs? The Case of Language-based Persuasion Games".'
 ---
 

@@ -99,10 +99,31 @@ for row, item in publications.iterrows():
         md += "\n" + html_escape(item.excerpt) + "\n"
         
     md += "\nRecommended citation: " + item.citation
-    
+
+    ## Add BibTeX entry with Copy button
+    if len(str(item.bibtex)) > 5:
+        bibtex_id = f"bibtex_{row}"
+        md += f"\n\n<div class=\"copy-bib-container\"><span class=\"copy-btn\" onclick=\"copyBib('{bibtex_id}')\">Copy BIB</span></div>"
+        md += f"\n<textarea id=\"{bibtex_id}\" style=\"display:none;\">{html_escape(item.bibtex)}</textarea>"
+
     md_filename = os.path.basename(md_filename)
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
 
+# Add JavaScript for copying to clipboard
+js_code = """
+<script>
+    function copyBib(bibId) {
+        const bibText = document.getElementById(bibId);
+        bibText.style.display = 'block'; // Make the textarea visible temporarily
+        bibText.select();
+        document.execCommand('copy');
+        bibText.style.display = 'none'; // Hide the textarea again
+        alert("BIB entry copied to clipboard!");
+    }
+</script>
+"""
+with open("../_includes/publications_footer.html", 'w') as f:
+    f.write(js_code)
 
