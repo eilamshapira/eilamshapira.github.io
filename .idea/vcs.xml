@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/academicpages.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/al-folio" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/minimal-mistakes" vcs="Git" />
   </component>
 </project>
