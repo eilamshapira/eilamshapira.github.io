@@ -17,3 +17,8 @@
 "chechik":
   - firstname: ["Gal", "G."]
     url: https://chechiklab.biu.ac.il/~gal/chechik.html
+
+"apel":
+  - firstname: ["Reut", "R."]
+    url: https://reutapel.github.io/
+
