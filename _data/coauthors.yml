@@ -5,3 +5,11 @@
 "madmon":
   - firstname: ["Omer", "O."]
     url: https://sites.google.com/view/omer-madmon
+
+"ben-david":
+  - firstname: ["Eyal", "E."]
+    url: https://eyalbd2.github.io/
+
+"tennenholtz":
+  - firstname: ["Moshe", "M."]
+    url: https://dds.technion.ac.il/academicstaff/moshe-tennenholtz/
