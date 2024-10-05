@@ -1,15 +1,11 @@
 ---
-title: "TreksTracker"
-excerpt: "<img src='/images/TreksTracker.jpeg'><br/>The app that helps travelers get places on the most popular treks in New Zealand."
-collection: portfolio
-permalink: /portfolio/TreksTracker
 
 layout: page
 title: TreksTracker
 description: The app that helps travelers get places on the most popular treks in New Zealand.
-img: assets/img/3.jpg
+img: assets/img/TreksTracker.jpeg
 importance: 1
-category: fun
+category: life
 giscus_comments: true
 ---
 > About a year ago, when I started planning my trip to New Zealand, I heard about the Milford Track. It's an amazing four-day trek that has every scenery you could want: snowy mountains, spectacular views, crazy waterfalls, streams flowing everywhere and a forest that looks like it was taken from a Disney movie. There are quite a few people who say that this is the most beautiful trek in the world. I don't know who has done all the treks in the world to decide, but in one title this trek wins for sure: the most requested trek in the world. Registration for it for the coming year - which opened last week - ended within seven minutes. <br><br>
