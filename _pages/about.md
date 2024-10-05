@@ -14,7 +14,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Hey there!
-
 I'm Eilam, currently a PhD Candidate at the [Technion - Israel Institute of Technology](https://www.technion.ac.il/).
 My main field of research is Language-based games: Natural Language Processing (NLP) in strategic environments.  
 
