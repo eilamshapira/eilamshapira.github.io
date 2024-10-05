@@ -5,22 +5,24 @@
 abstract={Recent advances in Large Language Models (LLMs) have spurred interest in designing LLM-based agents for tasks that involve interaction with human and artificial agents. This paper addresses a key aspect in the design of such agents: Predicting human decision in off-policy evaluation (OPE), focusing on language-based persuasion games, where the agent's goal is to influence its partner's decisions through verbal messages. Using a dedicated application, we collected a dataset of 87K decisions from humans playing a repeated decision-making game with artificial agents. Our approach involves training a model on human interactions with one agents subset to predict decisions when interacting with another. To enhance off-policy performance, we propose a simulation technique involving interactions across the entire agent space and simulated decision makers. Our learning strategy yields significant OPE gains, e.g., improving prediction accuracy in the top 15% challenging cases by 7.1%. Our code and the large dataset we collected and generated are submitted as supplementary material and publicly available in our GitHub repository},
   bibtex_show={true},
   arxiv={2305.10361},
+  pdf={https://arxiv.org/pdf/2305.10361.pdf},
   title={Human Choice Prediction in Language-based Persuasion Games: Simulation-based Off-Policy Evaluation},
   author={Shapira, Eilam and Apel, Reut and Tennenholtz, Moshe and Reichart, Roi},
   journal={arXiv preprint arXiv:2305.10361},
-  year={2023}
+  year={2023},
   selected={true},
-  code={https://github.com/eilamshapira/HumanChoicePrediction}
+  code={https://github.com/eilamshapira/HumanChoicePrediction},
 }
 
 @article{shapira2024can,
   abstract={Human choice prediction in economic contexts is crucial for applications in marketing, finance, public policy, and more. This task, however, is often constrained by the difficulties in acquiring human choice data. With most experimental economics studies focusing on simple choice settings, the AI community has explored whether LLMs can substitute for humans in these predictions and examined more complex experimental economics settings. However, a key question remains: can LLMs generate training data for human choice prediction? We explore this in language-based persuasion games, a complex economic setting involving natural language in strategic interactions. Our experiments show that models trained on LLM-generated data can effectively predict human behavior in these games and even outperform models trained on actual human data.},
   bibtex_show={true},
   arxiv={2401.17435},
+  pdf={https://arxiv.org/pdf/2401.17435.pdf},
   title={Can Large Language Models Replace Economic Choice Prediction Labs?},
   author={Shapira, Eilam and Madmon, Omer and Reichart, Roi and Tennenholtz, Moshe},
   journal={arXiv preprint arXiv:2401.17435},
-  year={2024}
+  year={2024},
   selected={true},
 }
 
@@ -28,6 +30,7 @@ abstract={Recent advances in Large Language Models (LLMs) have spurred interest 
 arxiv={2210.15182},
       bibtex_show={true},
       abstract={We address the challenge of building task-agnostic classifiers using only text descriptions, demonstrating a unified approach to image classification, 3D point cloud classification, and action recognition from scenes. Unlike approaches that learn a fixed representation of the output classes, we generate at inference time a model tailored to a query classification task. To generate task-based zero-shot classifiers, we train a hypernetwork that receives class descriptions and outputs a multi-class model. The hypernetwork is designed to be equivariant with respect to the set of descriptions and the classification layer, thus obeying the symmetries of the problem and improving generalization. Our approach generates non-linear classifiers, handles rich textual descriptions, and may be adapted to produce lightweight models efficient enough for on-device applications. We evaluate this approach in a series of zero-shot classification tasks, for image, point-cloud, and action recognition, using a range of text descriptions: From single words to rich descriptions. Our results demonstrate strong improvements over previous approaches, showing that zero-shot learning can be applied with little training data. Furthermore, we conduct an analysis with foundational vision and language models, demonstrating that they struggle to generalize when describing what attributes the class lacks.},
+      pdf={https://arxiv.org/pdf/2210.15182.pdf},
       title={Text2Model: Text-based Model Induction for Zero-shot Image Classification},
       author={Ohad Amosy and Tomer Volk and Eilam Shapira and Eyal Ben-David and Roi Reichart and Gal Chechik},
       year={2024},
