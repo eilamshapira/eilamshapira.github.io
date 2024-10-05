@@ -6,7 +6,7 @@ subtitle: NLP, LLMs, and strategic thinking enthusiast. PhD Candidate @ Technion
 profile:
   align: right
   image: profile.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Haifa, Israel</p>
 news: true # includes a list of news items
