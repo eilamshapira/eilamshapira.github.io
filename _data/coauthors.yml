@@ -13,3 +13,7 @@
 "tennenholtz":
   - firstname: ["Moshe", "M."]
     url: https://dds.technion.ac.il/academicstaff/moshe-tennenholtz/
+
+"chechik":
+  - firstname: ["Gal", "G."]
+    url: https://chechiklab.biu.ac.il/~gal/chechik.html
