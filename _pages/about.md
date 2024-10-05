@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+NLP, LLMs, and strategic thinking enthusiast. PhD Candidate @ Technion. 
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Haifa, Israel</p>
