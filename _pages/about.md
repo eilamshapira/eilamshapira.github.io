@@ -8,7 +8,7 @@ profile:
   image: profile.jpeg
   image_circular: true # crops the image to make it circular
 
-  more_info: blank
+  more_info: 
 
 [comment]: <> (    <p>Haifa, Israel</p>)
 news: true # includes a list of news items
