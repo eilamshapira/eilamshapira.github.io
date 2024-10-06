@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: List of courses I have taught.
 nav: true
 nav_order: 6
@@ -12,4 +12,4 @@ nav_order: 6
 [comment]: <> (Organize your courses by years, topics, or universities, however you like!)
 
 * Natural Language Processing. Lecturer. School of continuing education, Technion. Spring 2022, Spring 2024.
-* Methods in Natural Language Processing. Head Teaching Assistant. Faculty of Data and Decision Sciences, Technion. Winter 2022/23. Winter 2023/24.
+* Methods in Natural Language Processing. Head Teaching Assistant. Faculty of Data and Decision Sciences, Technion. Winter 2022/23, Winter 2023/24.
