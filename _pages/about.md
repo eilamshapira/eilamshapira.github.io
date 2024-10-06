@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <p>NLP, LLMs, and strategic thinking enthusiast.</p><p>PhD Candidate @ Technion.</p>
+subtitle:  <p>NLP, LLMs, and strategic thinking enthusiast.< br />PhD Candidate @ Technion.</p>
 profile:
   align: right
   image: profile.jpeg
