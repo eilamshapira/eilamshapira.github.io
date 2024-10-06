@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:  <p>NLP, LLMs, and strategic thinking enthusiast. PhD Candidate @ Technion.</p>
 profile:
