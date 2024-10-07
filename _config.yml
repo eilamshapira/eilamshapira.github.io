@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Eilam
 last_name: Shapira
-email: eilam.shapira@gmail.com
+#email: eilam.shapira@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -111,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  firstname.lastname [at] gmail [dot] com
+  Contact me at <firstname>.<lastname> [at] gmail [dot] com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
