@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TreksTracker
-description: An app that helps travelers get places on the most popular treks in New Zealand.
+description: Mobile app that helps travelers get places on the most popular treks in New Zealand.
 img: assets/img/TreksTracker.jpeg
 importance: 1
 category: life
