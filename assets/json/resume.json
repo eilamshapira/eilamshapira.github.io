@@ -18,7 +18,7 @@
     {
       "institution": "Technion - Israel Institute of Technology",
       "location": "Haifa, Israel",
-      "area": "Data & Decision Sciences",
+      "area": "The faculty of Data & Decision Sciences",
       "studyType": "PhD Candidate",
       "startDate": "2023-06",
       "endDate": "2027-02",
@@ -29,7 +29,7 @@
     {
       "institution": "Technion - Israel Institute of Technology",
       "location": "Haifa, Israel",
-      "area": "Data & Decision Sciences",
+      "area": "The faculty of Data & Decision Sciences",
       "studyType": "MSc. as part of a direct PhD track",
       "startDate": "2022-03",
       "endDate": "2023-05",
@@ -42,8 +42,9 @@
       "location": "Haifa, Israel",
       "url": "https://www.technion.ac.il",
       "studyType": "BSc. Data Science & Engineering",
-      "startDate": "2018",
-      "endDate": "2022",
+      "area": "The faculty of Data & Decision Sciences",
+      "startDate": "2018-10",
+      "endDate": "2022-07",
       "score": "GPA: 92.3/100 (Magna Cum Laude)",
       "courses": [],
       "summary": "Gained theoretical knowledge and practical experience in data science, machine learning, deep learning, statistics, and natural language processing."
