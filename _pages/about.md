@@ -16,11 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Hey there!
-I'm Eilam, currently a PhD Candidate at the [Technion - Israel Institute of Technology](https://www.technion.ac.il/).
-My main field of research is Language-based games: Natural Language Processing (NLP) in strategic environments.  
-
-My advisors are Prof. [Roi Reichart](https://roireichart.com/) and Prof.
+I'm Eilam, currently a PhD Candidate at the [Technion - Israel Institute of Technology](https://www.technion.ac.il/) under the supervision of Prof. [Roi Reichart](https://roireichart.com/) and Prof.
 [Moshe Tennenholtz](https://dds.technion.ac.il/he/academicstaff/moshe-tennenholtz/).
+My main field of research is Language-based games: Natural Language Processing (NLP) in strategic environments. I study how large language models (LLMs) can be used in economic situations that require cooperation between participants (i.e., non-zero-sum games). I use LLMs both as one of the players in these games and to predict the actions of other agents, including humans.
 
 I'm deeply passionate about infusing strategic thinking into all aspects of my life, from planning memorable trips to winning board games - my wife can vouch for both.
 I'm also fond of hiking, cooking, and supporting my favorite basketball team, Hapoel Jerusalem.
