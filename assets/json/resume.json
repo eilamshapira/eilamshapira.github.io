@@ -48,6 +48,28 @@
       "summary": "Gained theoretical knowledge and practical experience in data science, machine learning, deep learning, statistics, and natural language processing."
     }
   ],
+  "teaching": [
+    {
+      "name": "Natural Language Processing",
+      "position": "Lecturer",
+      // "location": "Haifa, Israel",
+      // "url": "https://www.augury.com",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": " School of continuing education, Technion. Spring 2022, Spring 2024.",
+      "highlights": []
+    },
+    {
+      "name": "Intro to NLP (097215)",
+      "position": "Head Teaching Assistant",
+      // "location": "Haifa, Israel",
+      // "url": "https://www.augury.com",
+      "startDate": "2022",
+      // "endDate": "2024",
+      "summary": "Faculty of Data and Decision Sciences, Technion. Winter 2022/23, Winter 2023/24.",
+      "highlights": []
+    }
+  ],
   "work": [
     {
       "name": "Augury",
@@ -148,7 +170,8 @@
       "name": "Research",
       "icon": "",
       "keywords": [
-        "NLP",
+        "Natural Language Processing (NLP)",
+        "Large Language Models (LLMs)",
         "Language-based Games",
         "LLM-based Agents",
         "Multi-Agent Machine Learning"
