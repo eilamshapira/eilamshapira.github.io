@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I selected to receive the VATAT Scholarship for Outstanding PhD Students in Data Science!
+I have been selected to receive the VATAT (Council for Higher Education in Israel) Scholarship for Outstanding PhD Students in Data Science!

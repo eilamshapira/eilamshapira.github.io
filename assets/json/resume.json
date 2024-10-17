@@ -4,6 +4,7 @@
     "label": "PhD Candidate at the Technion, IIT",
     "image": "",
     "url": "https://eilamshapira.github.io",
+    "email": "firstname [dot] lastname [at] gmail [dot] com",
     "summary": "My research focuses on training large language model-based agents for non-cooperative games. It aims to develop agents capable of effective natural language communication in economic settings, under a variety of types of data availability, while using reinforcement learning and transfer learning techniques.",
     "location": {
       "address": "",
