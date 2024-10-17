@@ -17,7 +17,6 @@
   "education": [
     {
       "institution": "Technion - Israel Institute of Technology",
-      "location": "Haifa, Israel",
 //      "area": "The faculty of Data & Decision Sciences",
       "studyType": "PhD Candidate",
       "startDate": "2023-06",
@@ -28,7 +27,6 @@
     },
     {
       "institution": "Technion - Israel Institute of Technology",
-      "location": "Haifa, Israel",
       "area": "The faculty of Data & Decision Sciences",
       "studyType": "MSc. as part of a direct PhD track",
       "startDate": "2022-03",
@@ -39,7 +37,6 @@
     },
     {
       "institution": "Technion - Israel Institute of Technology",
-      "location": "Haifa, Israel",
       "url": "https://www.technion.ac.il",
       "studyType": "BSc. Data Science & Engineering",
       "area": "The faculty of Data & Decision Sciences",
@@ -54,6 +51,7 @@
     {
       "name": "Augury",
       "position": "Data Science Student",
+      "location": "Haifa, Israel",
       "url": "https://www.augury.com",
       "startDate": "2020",
       "endDate": "2022",
@@ -66,15 +64,14 @@
       "title": "Tech.AI Award for Multidisciplinary Research in Data Science",
       "date": "2024-10",
       "awarder": "Tech.AI",
-      "url": "",
-      "summary": "Awarded 15K NIS"
+      "url": ""
     },
     {
       "title": "VATAT Scholarship for Outstanding PhD Students in AI and Data Science",
       "date": "2024-08",
       "awarder": "VATAT",
       "url": "",
-      "summary": "Awarded 360K NIS for the period 2024–2027"
+      "summary": "Awarded for the period 2024–2027"
     },
     {
       "title": "President’s List for Academic Excellence",
@@ -94,17 +91,22 @@
   "volunteer": [
     {
       "organization": "Faculty Student Committee, Technion Student Association",
-      "location": "",
       "position": "Chairperson",
-      "url": "",
       "startDate": "2019",
       "endDate": "2020",
       "summary": "",
       "highlights": []
     },
+    // {
+    //   "organization": "Technion Sports Association (ASA Technion)",
+    //   "position": "Board Member",
+    //   "startDate": "2019",
+    //   "endDate": "2020",
+    //   "summary": "",
+    //   "highlights": []
+    // },
     {
-      "organization": "Technion Sports Association (ASA Technion)",
-      "location": "",
+      "organization": "Technion Student Association",
       "position": "Board Member",
       "url": "",
       "startDate": "2019",
@@ -114,19 +116,7 @@
     },
     {
       "organization": "Technion Student Association",
-      "location": "",
-      "position": "Board Member",
-      "url": "",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "Technion Student Association",
-      "location": "",
       "position": "Data Science Undergraduate Representative",
-      "url": "",
       "startDate": "2018",
       "endDate": "2019",
       "summary": "",

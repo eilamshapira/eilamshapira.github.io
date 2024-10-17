@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new paper, "GLEE: A Unified Framework and Benchmark for Language-based Economic Environments" is uploaded to arXiv
+Our new paper, "GLEE: A Unified Framework and Benchmark for Language-based Economic Environments" is uploaded to arXiv.

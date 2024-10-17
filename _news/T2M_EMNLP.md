@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, "Text2Model: Text-based Model Induction for Zero-shot Image Classification", got accepted to EMNLP Findings!
+Our paper "Text2Model: Text-based Model Induction for Zero-shot Image Classification" got accepted to EMNLP Findings!
