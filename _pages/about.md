@@ -24,4 +24,4 @@ My main field of research is Language-based games: Natural Language Processing (
 I'm deeply passionate about infusing strategic thinking into all aspects of my life, from planning memorable trips to winning board games - my wife can vouch for both.
 I'm also fond of hiking, cooking, and supporting my favorite basketball team, Hapoel Jerusalem.
 
-I always happy to talk about my research and me papers. If you have any question about them, feel free to <a href="#social">>reach out</a>!
+I am always happy to talk about my research and my papers. If you have any questions about them, feel free to <a href="#social">reach out</a>!

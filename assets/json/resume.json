@@ -93,6 +93,14 @@
     {
       "organization": "Faculty Student Committee, Technion Student Association",
       "position": "Chairperson",
+      "startDate": "2024",
+      // "endDate": "2020",
+      "summary": "EMNLP 2024, ACL 2024",
+      "highlights": []
+    },
+    {
+      "organization": "Faculty Student Committee, Technion Student Association",
+      "position": "Chairperson",
       "startDate": "2019",
       "endDate": "2020",
       "summary": "",
