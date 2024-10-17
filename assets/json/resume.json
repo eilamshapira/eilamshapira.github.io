@@ -21,7 +21,7 @@
 //      "area": "The faculty of Data & Decision Sciences",
       "studyType": "PhD Candidate",
       "startDate": "2023-06",
-      "endDate": "2027-02",
+      // "endDate": "2027-02",
       "score": "",
       "courses": [],
       "summary": "Thesis: Generalization Methods for Training Large Language Model-Based Agents in Non-Cooperative Games. Advisors: Prof. Roi Reichart, Prof. Moshe Tenennholtz"
@@ -91,8 +91,8 @@
   ],
   "volunteer": [
     {
-      "organization": "Faculty Student Committee, Technion Student Association",
-      "position": "Chairperson",
+      "organization": "*ACL Conferences",
+      "position": "Reviewer",
       "startDate": "2024",
       // "endDate": "2020",
       "summary": "EMNLP 2024, ACL 2024",
