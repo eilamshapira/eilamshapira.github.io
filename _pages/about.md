@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Hey there!
 I'm Eilam, currently a PhD Candidate at the [Technion - Israel Institute of Technology](https://www.technion.ac.il/) under the supervision of Prof. [Roi Reichart](https://roireichart.com/) and Prof.
-[Moshe Tennenholtz](https://dds.technion.ac.il/he/academicstaff/moshe-tennenholtz/).
+[Moshe Tennenholtz](https://scholar.google.co.uk/citations?user=65FCPpwAAAAJ&hl=en).
 
 My main field of research is Language-based games: Natural Language Processing (NLP) in economic environments. I study how large language models (LLMs) can be used in economic situations that require cooperation between participants (i.e., non-zero-sum games). I use LLMs both as one of the players in these games and to predict the actions of other agents, including humans.
 
