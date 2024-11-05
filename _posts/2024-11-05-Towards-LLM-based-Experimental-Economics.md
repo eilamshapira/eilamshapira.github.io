@@ -72,7 +72,7 @@ Of particular interest is the field of game theory. This field has originated in
        
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2024-11-05-Towards-LLM-based-Experimental-Economics/rock_paper_scissors.jpg" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/2024-11-05-Towards-LLM-based-Experimental-Economics/rock_paper_scissors.jpg" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
        
@@ -87,7 +87,7 @@ However, work in AI has mostly focused on optimizing agent behavior. When it com
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2024-11-05-Towards-LLM-based-Experimental-Economics/stylized_hotel_game.jpg" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/2024-11-05-Towards-LLM-based-Experimental-Economics/stylized_hotel_game.jpg" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
