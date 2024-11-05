@@ -4,7 +4,7 @@ permalink: /blog/
 title: blog
 nav: true
 
-[comment]: <> (nav_order: 1)
+nav_order: 1
 pagination:
   enabled: true
   collection: posts
