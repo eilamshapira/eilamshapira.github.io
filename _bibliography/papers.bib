@@ -55,17 +55,25 @@ models trained on actual human data.},
   selected={true},
 }
 
-@misc{amosy2024text2modeltextbasedmodelinduction,
-      bibtex_show={true},
-      abstract={We address the challenge of building task-agnostic classifiers using only text descriptions, demonstrating a unified approach to image classification, 3D point cloud classification, and action recognition from scenes. Unlike approaches that learn a fixed representation of the output classes, we generate at inference time a model tailored to a query classification task. To generate task-based zero-shot classifiers, we train a hypernetwork that receives class descriptions and outputs a multi-class model. The hypernetwork is designed to be equivariant with respect to the set of descriptions and the classification layer, thus obeying the symmetries of the problem and improving generalization. Our approach generates non-linear classifiers, handles rich textual descriptions, and may be adapted to produce lightweight models efficient enough for on-device applications. We evaluate this approach in a series of zero-shot classification tasks, for image, point-cloud, and action recognition, using a range of text descriptions: From single words to rich descriptions. Our results demonstrate strong improvements over previous approaches, showing that zero-shot learning can be applied with little training data. Furthermore, we conduct an analysis with foundational vision and language models, demonstrating that they struggle to generalize when describing what attributes the class lacks.},
-      pdf={https://arxiv.org/pdf/2210.15182.pdf},
-      title={Text2Model: Text-based Model Induction for Zero-shot Image Classification},
-      author={Ohad Amosy and Tomer Volk and Eilam Shapira and Eyal Ben-David and Roi Reichart and Gal Chechik},
-      year={2024},
-      eprint={2210.15182},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2210.15182},
+@inproceedings{amosy-etal-2024-text2model,
+    title = "{T}ext2{M}odel: Text-based Model Induction for Zero-shot Image Classification",
+    author = "Amosy, Ohad  and
+      Volk, Tomer  and
+      Shapira, Eilam  and
+      Ben-David, Eyal  and
+      Reichart, Roi  and
+      Chechik, Gal",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.8",
+    pages = "155--172",
+    abstract = "We address the challenge of building task-agnostic classifiers using only text descriptions, demonstrating a unified approach to image classification, 3D point cloud classification, and action recognition from scenes. Unlike approaches that learn a fixed representation of the output classes, we generate at inference time a model tailored to a query classification task. To generate task-based zero-shot classifiers, we train a hypernetwork that receives class descriptions and outputs a multi-class model. The hypernetwork is designed to be equivariant with respect to the set of descriptions and the classification layer, thus obeying the symmetries of the problem and improving generalization. Our approach generates non-linear classifiers, handles rich textual descriptions, and may be adapted to produce lightweight models efficient enough for on-device applications. We evaluate this approach in a series of zero-shot classification tasks, for image, point-cloud, and action recognition, using a range of text descriptions: From single words to rich descriptions. Our results demonstrate strong improvements over previous approaches, showing that zero-shot learning can be applied with little training data. Furthermore, we conduct an analysis with foundational vision and language models, demonstrating that they struggle to generalize when describing what attributes the class lacks.",
 }
 
 
