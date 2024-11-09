@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Towards LLM-based Experimental Economics
-description: This blog post explores how Large Language Models (LLMs) can revolutionize experimental economics by simulating human behavior in oumdational economic scenarios, while steering AI from zero-sum games to general non-cooperative games and agents towards strategic entities in a multi-agent environment. Traditional approaches in economics are limited by the costs and complexities of human-based experiments, and replacing humans with LLMs enables large-scale simulations, allowing researchers to examine a variety of economic mechanisms.
+description: This blog post explores how Large Language Models (LLMs) can revolutionize experimental economics by simulating human behavior in foundational economic scenarios, while steering AI from zero-sum games to general non-cooperative games and agents towards strategic entities in a multi-agent environment. Traditional approaches in economics are limited by the costs and complexities of human-based experiments, and replacing humans with LLMs enables large-scale simulations, allowing researchers to examine a variety of economic mechanisms.
 date: 2024-11-05
 tags: Economics LLMs Language-based-Games
 categories: Research
