@@ -15,3 +15,18 @@ Pretty quickly I got myself a place on the trek like that, but I couldn't even i
 <figcaption>From my ad, 2018</figcaption></figure>
 
 My application TreksTracker (originally called MilfordTracker) operated for four tourist seasons in the years 2017-2023 and helped about a thousand travelers embark on one of the most beautiful routes I've traveled and other popular routes in New Zealand.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <!-- {% include figure.liquid loading="eager" path="assets/img/travel_or_trouble_screenshots/screenshot2.png" title="example image" class="img-fluid rounded z-depth-1" %} -->
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/trekstracker/trekstracker_1.jpg" title="A screenshot of the app." class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <!-- {% include figure.liquid loading="eager" path="assets/img/travel_or_trouble_screenshots/screenshot3.png" title="example image" class="img-fluid rounded z-depth-1" %} -->
+    </div>
+</div>
+<div class="caption">
+    A screenshot from the app.
+</div>
