@@ -1,6 +1,33 @@
 ---
 ---
 
+@article{arazi2025tabstarf,
+    title = {TabSTAR: A Foundation Tabular Model With Semantically Target-Aware Representations},
+    author = {Alan Arazi and Eilam Shapira and Roi Reichart},
+    journal = {arXiv preprint arXiv:2505.18125},
+    year = {2025},
+    pdf = {https://arxiv.org/pdf/2505.18125.pdf},
+    bibtex_show={true},
+    url = {https://arxiv.org/abs/2505.18125},
+    abstract = {While deep learning has achieved remarkable success across many domains, it has historically underperformed on tabular learning tasks, which remain dominated by gradient boosting decision trees (GBDTs). However, recent advancements are paving the way for Tabular Foundation Models, which can leverage real-world knowledge and generalize across diverse datasets, particularly when the data contains free-text. Although incorporating language model capabilities into tabular tasks has been explored, most existing methods utilize static, target-agnostic textual representations, limiting their effectiveness. We introduce TabSTAR: a Foundation Tabular Model with Semantically Target-Aware Representations. TabSTAR is designed to enable transfer learning on tabular data with textual features, with an architecture free of dataset-specific parameters. It unfreezes a pretrained text encoder and takes as input target tokens, which provide the model with the context needed to learn task-specific embeddings. TabSTAR achieves state-of-the-art performance for both medium- and large-sized datasets across known benchmarks of classification tasks with text features, and its pretraining phase exhibits scaling laws in the number of datasets, offering a pathway for further performance improvements.},
+    selected = {true},
+    
+}
+
+@article{gradwohl2025fairness,
+  title={Fairness under Competition},
+  author={Gradwohl, Ronen and Shapira, Eilam and Tennenholtz, Moshe},
+  journal={arXiv preprint arXiv:2505.16291},
+  year={2025},
+  pdf={https://arxiv.org/pdf/2505.16291.pdf},
+  bibtex_show={true},
+  url={https://arxiv.org/abs/2505.16291},
+  abstract={Algorithmic fairness has emerged as a central issue in ML, and it has become standard practice to adjust ML algorithms so that they will satisfy fairness requirements such as Equal Opportunity. In this paper we consider the effects of adopting such fair classifiers on the overall level of ecosystem fairness. Specifically, we introduce the study of fairness with competing firms, and demonstrate the failure of fair classifiers in yielding fair ecosystems. Our results quantify the loss of fairness in systems, under a variety of conditions, based on classifiers' correlation and the level of their data overlap. We show that even if competing classifiers are individually fair, the ecosystem's outcome may be unfair; and that adjusting biased algorithms to improve their individual fairness may lead to an overall decline in ecosystem fairness. In addition to these theoretical results, we also provide supporting experimental evidence. Together, our model and results provide a novel and essential call for action.}
+}
+
+
+
+
 @misc{shapira2024gleeunifiedframeworkbenchmark,
       pdf={https://arxiv.org/pdf/2410.05254.pdf},
       bibtex_show={true},
@@ -100,27 +127,4 @@ booktitle={AAAI 2025 Workshop LM4Plan},
 year={2025},
 url={https://openreview.net/forum?id=SPRYlWKaPj},
 pdf={https://openreview.net/pdf?id=SPRYlWKaPj},
-}
-
-@article{gradwohl2025fairness,
-  title={Fairness under Competition},
-  author={Gradwohl, Ronen and Shapira, Eilam and Tennenholtz, Moshe},
-  journal={arXiv preprint arXiv:2505.16291},
-  year={2025},
-  pdf={https://arxiv.org/pdf/2505.16291.pdf},
-  bibtex_show={true},
-  url={https://arxiv.org/abs/2505.16291},
-  abstract={Algorithmic fairness has emerged as a central issue in ML, and it has become standard practice to adjust ML algorithms so that they will satisfy fairness requirements such as Equal Opportunity. In this paper we consider the effects of adopting such fair classifiers on the overall level of ecosystem fairness. Specifically, we introduce the study of fairness with competing firms, and demonstrate the failure of fair classifiers in yielding fair ecosystems. Our results quantify the loss of fairness in systems, under a variety of conditions, based on classifiers' correlation and the level of their data overlap. We show that even if competing classifiers are individually fair, the ecosystem's outcome may be unfair; and that adjusting biased algorithms to improve their individual fairness may lead to an overall decline in ecosystem fairness. In addition to these theoretical results, we also provide supporting experimental evidence. Together, our model and results provide a novel and essential call for action.}
-}
-
-@article{arazi2025tabstarf,
-    title = {TabSTAR: A Foundation Tabular Model With Semantically Target-Aware Representations},
-    author = {Alan Arazi and Eilam Shapira and Roi Reichart},
-    journal = {arXiv preprint arXiv:2505.18125},
-    year = {2025},
-    pdf = {https://arxiv.org/pdf/2505.18125.pdf},
-    bibtex_show={true},
-    url = {https://arxiv.org/abs/2505.18125},
-    abstract = {While deep learning has achieved remarkable success across many domains, it has historically underperformed on tabular learning tasks, which remain dominated by gradient boosting decision trees (GBDTs). However, recent advancements are paving the way for Tabular Foundation Models, which can leverage real-world knowledge and generalize across diverse datasets, particularly when the data contains free-text. Although incorporating language model capabilities into tabular tasks has been explored, most existing methods utilize static, target-agnostic textual representations, limiting their effectiveness. We introduce TabSTAR: a Foundation Tabular Model with Semantically Target-Aware Representations. TabSTAR is designed to enable transfer learning on tabular data with textual features, with an architecture free of dataset-specific parameters. It unfreezes a pretrained text encoder and takes as input target tokens, which provide the model with the context needed to learn task-specific embeddings. TabSTAR achieves state-of-the-art performance for both medium- and large-sized datasets across known benchmarks of classification tasks with text features, and its pretraining phase exhibits scaling laws in the number of datasets, offering a pathway for further performance improvements.},
-    selected = {true},
 }
